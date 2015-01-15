@@ -10,8 +10,8 @@ void mouthTV::setup()
     ofBackground(0);
     ofSetLineWidth(2);
     
-    // fps limiter off
-    ofSetVerticalSync(false);
+    // frame change responds accordingly
+    ofSetVerticalSync(true);
     
     // webcam and face tracker setup
     video.setup();
