@@ -10,31 +10,31 @@
 	<string>mouthTV</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>D7E14AA6828E0D771AC0C93AB9BE8AA54C30B697</key>
-		<string>github.com:daikii/mouthTV.git</string>
+		<key>B12EBEC3B22BC09F0650D2916E1DF10A3BA288B0</key>
+		<string>https://github.com/daikii/experimental-interaction.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>mouthTV.xcodeproj</string>
+	<string>mouthTV/mouthTV.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>D7E14AA6828E0D771AC0C93AB9BE8AA54C30B697</key>
-		<string>../..</string>
+		<key>B12EBEC3B22BC09F0650D2916E1DF10A3BA288B0</key>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>github.com:daikii/mouthTV.git</string>
+	<string>https://github.com/daikii/experimental-interaction.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>D7E14AA6828E0D771AC0C93AB9BE8AA54C30B697</string>
+	<string>B12EBEC3B22BC09F0650D2916E1DF10A3BA288B0</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>D7E14AA6828E0D771AC0C93AB9BE8AA54C30B697</string>
+			<string>B12EBEC3B22BC09F0650D2916E1DF10A3BA288B0</string>
 			<key>IDESourceControlWCCName</key>
-			<string>mouthTV</string>
+			<string>experimental-interaction</string>
 		</dict>
 	</array>
 </dict>
